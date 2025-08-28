@@ -1,0 +1,5 @@
+{
+  "name": "Sistema de Afiliados PoC",
+  "description": "Uma prova de conceito de um sistema de afiliados leve, rodando 100% no front-end usando React e localStorage para persistência de dados. Inclui dashboards para administradores e afiliados.",
+  "requestFramePermissions": []
+}
